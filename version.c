@@ -33,7 +33,7 @@
  * configured features (Ruby and PCRE2).
  */
 #include	"def.h"
-#include	"rev.h"
+
 
 char *version[] = {
   "MicroEMACS by 柱間"   
