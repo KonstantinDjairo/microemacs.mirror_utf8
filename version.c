@@ -36,7 +36,7 @@
 #include	"rev.h"
 
 char *version[] = {
-  "MicroEMACS " DATE " " REV
+  "MicroEMACS by 柱間"   
 #if USE_RUBY
   " (ruby)"
 #endif
